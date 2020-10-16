@@ -2,7 +2,7 @@
 // document.getElementById('test').innerHTML = Math.PI;
 
 // document.getElementById('test').innerHTML = Math.round(23.5);
-document.body.style.backgroundColor = "yellow";
+document.body.style.backgroundColor = "#E06D06";
 
 function myFunction(min, max) {
     return Math.floor(Math.random() * (max - min) + min);
