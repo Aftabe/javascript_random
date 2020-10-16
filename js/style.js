@@ -19,4 +19,5 @@ btn.addEventListener('click', changeBckColor);
 
 function changeBckColor(){
     document.body.style.backgroundColor = 'greenyellow';
+    document.body.style.color = 'white';
 }
